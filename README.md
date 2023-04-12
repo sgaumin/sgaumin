@@ -2,7 +2,7 @@
 
 **I'm Sebastien (he/they)** - I'm a game engineer from **Paris, France** currently living in **Kyoto, Japan**!
 
-![My Skills](https://skillicons.dev/icons?i=unity,cs,mysql,html,css,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=unity,cs,mysql,py,html,css,matlab,blender,git,visualstudio)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sgaumin)  
 
